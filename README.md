@@ -1,2 +1,2 @@
 # Kafka-Weather-Streaming
-Live weather streaming using Kafka
+This is a Kafka-based Weather Producer that provides a real-time weather data streaming using OpenWeather API.
